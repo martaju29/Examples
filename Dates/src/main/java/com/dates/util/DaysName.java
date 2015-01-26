@@ -9,6 +9,6 @@ public class DaysName {
 	         String weekday = weekdays[i];
 	         System.out.println(weekday);
 	      }
-	     
+	     System.out.println(weekdays[1]);
 	   }
 }
